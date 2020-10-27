@@ -1,0 +1,9 @@
+#salah{
+	display: none;
+}
+a{
+	text-decoration: none;
+}
+#salah:target{
+	display: block;
+}
